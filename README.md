@@ -1,8 +1,9 @@
 # CSE410_Graphics_Sessional
 ##  All Offilne 
 
-# 1)
-## (i) Converting Square to sphere by key pressing and vice versa
+# 1) 1st offline to get to know with OpneGL
+
+## (i) Converting Square to sphere and vice versa by pressing [home, end] key
 
 ![image](https://user-images.githubusercontent.com/37360863/218672154-95c556c8-08f5-4d91-ae3d-258b0054c82b.png)
 
@@ -10,18 +11,18 @@
 ![image](https://user-images.githubusercontent.com/37360863/218672422-71c01020-258b-4f6f-89bc-43efeb45e8b1.png)
 
 
-## (ii)
+## (ii) Movable wheel by pressing [w a s d]
 ![image](https://user-images.githubusercontent.com/37360863/218672606-25557ae2-c969-4502-a164-81cd02ae118a.png)
 ![image](https://user-images.githubusercontent.com/37360863/218672660-4857a947-9bd0-4fd6-b297-3ed1630f2323.png)
 
 
 
-# (2) Z buffer
+# (2) Z buffer calculation
 ![output](https://user-images.githubusercontent.com/37360863/218672862-479ccdd1-de65-4122-857a-e1a766558735.png)
 
 
 # (3) Ray Tracing
-
+controlling camera by [1 2 3 4 5 6, up,down, left, right] keys and capturing by pressing "o"
 Before rendering: 
 <img width="374" alt="ss_object" src="https://user-images.githubusercontent.com/37360863/218673155-2765cefd-d1b8-4c07-913c-24cedb642eb5.png">
 After RTX: 
